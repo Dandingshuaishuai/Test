@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Devices>
+	<Device id="01" name="01" url="rtsp://admin:admin@10.227.18.227:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.227" port="554" user="admin" password="`888888aa" rate="0"/>
+	<Device id="02" name="02" url="rtsp://admin:admin@10.227.18.228:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.228" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="03" name="03" url="rtsp://admin:admin@10.227.18.229:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.229" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="04" name="04" url="rtsp://admin:admin@10.227.18.230:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.230" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="05" name="05" url="rtsp://admin:admin@10.227.18.231:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.231" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="06" name="06" url="rtsp://admin:admin@10.227.18.232:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.232" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="07" name="07" url="rtsp://admin:admin@10.227.18.233:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.233" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="08" name="08" url="rtsp://admin:admin@10.227.18.234:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.234" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="09" name="09" url="rtsp://admin:admin@10.227.18.235:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.235" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="10" name="10" url="rtsp://admin:admin@10.227.18.236:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.236" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="11" name="11" url="rtsp://admin:admin@10.227.18.237:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.237" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="12" name="12" url="rtsp://admin:admin@10.227.18.238:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.238" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="13" name="13" url="rtsp://admin:admin@10.227.18.239:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.239" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="14" name="14" url="rtsp://admin:admin@10.227.18.240:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.240" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="15" name="15" url="rtsp://admin:admin@10.227.18.241:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.241" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="16" name="16" url="rtsp://admin:admin@10.227.18.242:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.242" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="17" name="17" url="rtsp://admin:admin@10.227.18.243:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.243" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="18" name="18" url="rtsp://admin:admin@10.227.18.244:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.244" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="19" name="19" url="rtsp://admin:admin@10.227.18.245:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.245" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="20" name="20" url="rtsp://admin:admin@10.227.18.246:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.246" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="21" name="21" url="rtsp://admin:admin@10.227.18.247:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.247" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="22" name="22" url="rtsp://admin:admin@10.227.18.248:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.248" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="23" name="23" url="rtsp://admin:admin@10.227.18.249:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.249" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="24" name="24" url="rtsp://admin:admin@10.227.18.250:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.250" port="554" user="admin" password="888888aa" rate="0"/>
+        <Device id="25" name="25" url="rtsp://admin:admin@10.227.18.194:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.194" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="26" name="26" url="rtsp://admin:admin@10.227.18.195:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.195" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="27" name="27" url="rtsp://admin:admin@10.227.18.196:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.196" port="554" user="admin" password="888888aa" rate="0"/>
+	<Device id="29" name="28" url="rtsp://admin:admin@10.227.18.197:554/cam/realmonitor?channel=1&amp;subtype=0" identifier="MY" model="PUB" ip="10.227.18.197" port="554" user="admin" password="888888aa" rate="0"/>
+
+</Devices>
+
+<Devices>
+	
+</Devices>
